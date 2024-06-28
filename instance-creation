@@ -78,7 +78,10 @@ provider "aws" {
 
 #################
 
-
-
-
+0. terraform init 
+1. terraform fmt
+2. terraform validate
+3. terraform plan
+4. terraform apply --auto-approve
+5. terraform destroy --auto-approve
 
